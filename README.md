@@ -20,9 +20,8 @@ Os prompts usados para geração de conteúdo estão disponíveis [aqui](https:/
 
 As imagens geradas estão disponíveis [aqui](https://github.com/tramalho/podcast-ai/tree/main/resources/img).
 
-O pocast pode ser ouvido no player abaixo ou então baixado [aqui](https://github.com/tramalho/podcast-ai/tree/main/resources/podcast)
+O pocast pode ser baixado [aqui](https://github.com/tramalho/podcast-ai/tree/main/resources/podcast)
 
-//TODO
 
 ## 💭 Reflexão
 O resultado compartilhado nesse repositório tem apenas fins didáticos e visa demonstrar os conhecimentos obtidos no uso Gen AI e não deve ser encarado como uma fonte de informação.
